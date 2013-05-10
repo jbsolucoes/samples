@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="bcp2pc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bcp2pc"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="29" Y="15"/>
+        <UsageCount Value="82"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="39"/>
+        <CursorPos X="28" Y="51"/>
+        <UsageCount Value="82"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="http.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="http"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="329"/>
+        <CursorPos X="132" Y="339"/>
+        <UsageCount Value="82"/>
+        <Bookmarks Count="2">
+          <Item0 X="1" Y="355" ID="2"/>
+          <Item1 X="1" Y="355" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\components\synapse\synautil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="82"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\components\synapse\blcksock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="blcksock"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3860"/>
+        <CursorPos X="57" Y="3874"/>
+        <UsageCount Value="82"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="jsonlib.pas"/>
+        <UnitName Value="jsonlib"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="79"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="libutil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="libutil"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="75" Y="18"/>
+        <UsageCount Value="52"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\components\Greyhound\src\gh_zeoslib.pas"/>
+        <UnitName Value="gh_ZeosLib"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8"/>
+        <CursorPos X="69" Y="30"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\components\zeoslib\src\component\ZAbstractConnection.pas"/>
+        <UnitName Value="ZAbstractConnection"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="51"/>
+        <CursorPos X="3" Y="66"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\components\zeoslib\src\dbc\ZDbcSqLiteUtils.pas"/>
+        <UnitName Value="ZDbcSqLiteUtils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="247"/>
+        <CursorPos X="67" Y="266"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\components\Greyhound\src\gh_sql.pas"/>
+        <UnitName Value="gh_SQL"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="86"/>
+        <CursorPos X="32" Y="100"/>
+        <UsageCount Value="15"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="log.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLog"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="log"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="36" Y="32"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="sndkey32.pas"/>
+        <UnitName Value="sndkey32"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="89" Y="16"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="http.pas"/>
+        <Caret Line="375" Column="25" TopLine="360"/>
+      </Position1>
+      <Position2>
+        <Filename Value="http.pas"/>
+        <Caret Line="406" Column="44" TopLine="391"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="41" Column="43" TopLine="25"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="49" Column="39" TopLine="26"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="50" Column="39" TopLine="27"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="51" Column="39" TopLine="28"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="50" Column="39" TopLine="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="49" Column="39" TopLine="26"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="50" Column="39" TopLine="27"/>
+      </Position9>
+      <Position10>
+        <Filename Value="http.pas"/>
+        <Caret Line="42" Column="1" TopLine="20"/>
+      </Position10>
+      <Position11>
+        <Filename Value="http.pas"/>
+        <Caret Line="36" Column="32" TopLine="19"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="53" Column="35" TopLine="29"/>
+      </Position12>
+      <Position13>
+        <Filename Value="log.pas"/>
+        <Caret Line="23" Column="30" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="log.pas"/>
+        <Caret Line="35" Column="3" TopLine="11"/>
+      </Position14>
+      <Position15>
+        <Filename Value="http.pas"/>
+        <Caret Line="20" Column="31" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="http.pas"/>
+        <Caret Line="343" Column="44" TopLine="303"/>
+      </Position16>
+      <Position17>
+        <Filename Value="http.pas"/>
+        <Caret Line="21" Column="56" TopLine="118"/>
+      </Position17>
+      <Position18>
+        <Filename Value="http.pas"/>
+        <Caret Line="347" Column="28" TopLine="324"/>
+      </Position18>
+      <Position19>
+        <Filename Value="http.pas"/>
+        <Caret Line="209" Column="2" TopLine="196"/>
+      </Position19>
+      <Position20>
+        <Filename Value="http.pas"/>
+        <Caret Line="212" Column="62" TopLine="196"/>
+      </Position20>
+      <Position21>
+        <Filename Value="log.pas"/>
+        <Caret Line="40" Column="25" TopLine="17"/>
+      </Position21>
+      <Position22>
+        <Filename Value="http.pas"/>
+        <Caret Line="338" Column="55" TopLine="327"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="61" Column="15" TopLine="36"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="60" Column="15" TopLine="35"/>
+      </Position24>
+      <Position25>
+        <Filename Value="http.pas"/>
+        <Caret Line="339" Column="21" TopLine="324"/>
+      </Position25>
+      <Position26>
+        <Filename Value="main.pas"/>
+        <Caret Line="55" Column="29" TopLine="35"/>
+      </Position26>
+      <Position27>
+        <Filename Value="main.pas"/>
+        <Caret Line="56" Column="29" TopLine="36"/>
+      </Position27>
+      <Position28>
+        <Filename Value="http.pas"/>
+        <Caret Line="15" Column="63" TopLine="30"/>
+      </Position28>
+      <Position29>
+        <Filename Value="bcp2pc.lpr"/>
+        <Caret Line="12" Column="27" TopLine="1"/>
+      </Position29>
+      <Position30>
+        <Filename Value="http.pas"/>
+        <Caret Line="50" Column="42" TopLine="1"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="ReqContent"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

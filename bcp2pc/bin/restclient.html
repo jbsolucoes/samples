@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<script>
+  function rpcjson(){
+    
+    $.ajax({
+            type: $("#selmethod").val(),
+            url: $("#hosturl").val(),
+            data: $("#jsoncontent").val(), 
+            success: function(result, textStatus, XMLHttpRequest) {
+						 $("textarea#jsonresult").val(XMLHttpRequest.responseText);
+                     },
+            dataType: 'json',
+            contentType: 'application/json'
+    });
+}
+</script>
+
+
+<h2>JSON REST CLIENT</H2>
+<p>
+
+Method
+<select id="selmethod" title="selmethod">
+  <option>GET</option>
+  <option selected="selected">POST</option>
+  <option>PUT</option>
+  <option>DELETE</option>
+ </select><br>
+Host&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" id="hosturl" size=100 value='http://localhost:3088'><br>
+Content<br>
+<textarea id="jsoncontent" rows=6 cols=90>{"jsonrpc": "2.0", "method": "READBARCODE", "params": ["HELLOWORLD"], "id": 1}</textarea><br>
+Result<br>
+<textarea id="jsonresult" rows=8 cols=90></textarea>
+
+
+<button onclick="rpcjson()">Run</button>
+
+</body>
+</html>

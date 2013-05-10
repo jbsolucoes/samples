@@ -1,0 +1,17 @@
+[Box: ::http - ::<<Unknown>>::TThread]
+X=122
+Y=40
+
+[Box: ::http - ::http::TTCPHttpDaemon]
+X=17
+Y=136
+
+[Box: ::http - ::http::TTCPHttpThrd]
+X=225
+Y=121
+
+[Diagram: ::http]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0

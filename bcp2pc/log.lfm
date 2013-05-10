@@ -1,0 +1,29 @@
+object frmLog: TfrmLog
+  Left = 894
+  Height = 508
+  Top = 116
+  Width = 903
+  Caption = 'BCP2PC Log'
+  ClientHeight = 508
+  ClientWidth = 903
+  OnClose = FormClose
+  OnDestroy = FormDestroy
+  LCLVersion = '1.1'
+  object memLog: TMemo
+    Left = 0
+    Height = 508
+    Top = 0
+    Width = 903
+    Align = alClient
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -13
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ReadOnly = True
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+    TabStop = False
+  end
+end
